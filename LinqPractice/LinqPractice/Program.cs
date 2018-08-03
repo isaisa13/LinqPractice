@@ -13,7 +13,7 @@ namespace LinqPractice
             var linqTest = new[] { 3, 4, 3, 50, 34, 5 };
             var classTest = new[]
             {
-                new {age = 12, name = "taro"},
+                new {age = 19, name = "taro"},
                 new {age = 4,  name = "hana"},
                 new {age = 2,  name = "pes"},
                 new {age = 34, name = "ken"}
