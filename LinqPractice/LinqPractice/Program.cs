@@ -16,7 +16,7 @@ namespace LinqPractice
                 new {age = 12, name = "taro"},
                 new {age = 4,  name = "hana"},
                 new {age = 2,  name = "pes"},
-                new {age = 34, name = "ken"}
+                new {age = 40, name = "ken"}
             };
 
             // selectは値を操作する.
