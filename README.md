@@ -1,0 +1,2 @@
+# LinqPractice
+LINQ練習
